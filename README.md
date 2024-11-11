@@ -1,1 +1,1 @@
-# habit-hatcheries
+# Hack Camp Project: Habit Hatcheries

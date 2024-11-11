@@ -1,0 +1,55 @@
+body {
+    background-color: #dcfdff; 
+    overflow: hidden; 
+}
+
+#title {
+    color: #7c90bf;
+    font-size: 5rem; 
+    font-family: "Teachers", sans-serif;
+    text-align: center; 
+}
+
+#add_habit_div {
+    text-align: center; 
+}
+
+
+#addedhabits {
+    display: flex; 
+    justify-content: center;
+}
+
+
+#addedhabitsflex {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: flex-start;
+    margin-left:100px; 
+    margin-right:80px;
+    width: 50%; 
+
+}
+
+
+.newHabit {
+    margin: 30px; 
+    background-color: transparent;
+    border: none; 
+}
+
+.bubbleimage {
+    width: 100px; 
+    height: 100px; 
+}
+
+.bubbleimage:hover {
+    transform: scale(1.2);
+}
+
+.habittext {
+    margin-top: -2px; 
+    font-size: 1rem; 
+    font-family: "Teachers", sans-serif;
+    color: #7c90bf;
+}
