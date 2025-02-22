@@ -1,1 +1,1 @@
-# Hack Camp Project: AquaStreak
+# Hack Camp Project: Habit Hatchery
